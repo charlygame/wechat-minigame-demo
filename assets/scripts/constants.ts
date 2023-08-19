@@ -1,0 +1,1 @@
+export const SERVER_HOST: string = "http://localhost:8080"

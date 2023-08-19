@@ -1,0 +1,12 @@
+{
+  "name": "game-demo",
+  "uuid": "20b0c854-ef84-4c17-ab97-01cd6cd82416",
+  "version": "3.0.0",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "creator": {
+    "version": "3.6.0"
+  },
+  "dependencies": {
+    "minigame-api-typings": "^3.8.1"
+  }
+}
